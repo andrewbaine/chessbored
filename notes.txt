@@ -1,0 +1,5 @@
+problem game has:
+
+[White "Amyan"]
+[Black "XinixXX"]
+Nge7

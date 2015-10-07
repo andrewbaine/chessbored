@@ -1,0 +1,105 @@
+[Event "6th London Classic 2014"]
+[Site "London ENG"]
+[Date "2014.12.10"]
+[Round "1.3"]
+[White "Nakamura,Hi"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2768"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "24116068"]
+[EventDate "2014.12.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. Nc3 Ne8 10. Nd5 Bd6 11. Re2 Nf6 12. Ne3 Re8 13. b3 Bf8 14. Bb2 Re6
+15. c4 c6 16. Re1 d5 17. cxd5 Nxd5 18. Bc4 Nxe3 19. fxe3 Rh6 20. Rf1 Be6 21.
+Bxe6 Rxe6 22. Qf3 Qe8 23. Rf2 Rd8 24. Raf1 Rd7 25. Qf5 Red6 26. Qc2 Rh6 27. g3
+c5 28. Rf5 b6 29. R1f2 Re6 30. Qc3 Red6 31. Qc2 Re6 32. Qc3 Red6 33. Qc2 Re6 1/2-1/2
+
+
+[Event "London Classic Open 2014"]
+[Site "London ENG"]
+[Date "2014.12.10"]
+[Round "3.38"]
+[White "Buchicchio,Giam"]
+[Black "Arnetta,MariaT"]
+[Result "1-0"]
+[WhiteTitle "FM"]
+[BlackTitle "WFM"]
+[WhiteElo "2301"]
+[BlackElo "2027"]
+[ECO "C45"]
+[Opening "Scotch game"]
+[WhiteFideId "811491"]
+[BlackFideId "811572"]
+[EventDate "2014.12.08"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 Nc6 4. Nxd4 Bb4+ 5. c3 Bc5 6. Be3 Bb6 7. g3 Nf6 8.
+Bg2 O-O 9. O-O Re8 10. Re1 Ne5 11. Bf4 d6 12. h3 Ng6 13. Bg5 h6 14. Bxf6 Qxf6
+15. Na3 Ne5 16. Nac2 Bd7 17. Ne3 c6 18. f4 Ng6 19. Qb3 Nf8 20. Rad1 Ne6 21. Qc4
+Nc5 22. Ng4 Bxg4 23. hxg4 Nxe4 24. Rxe4 Rxe4 25. Bxe4 d5 26. Bxd5 cxd5 27. Qxd5
+Rd8 28. Qe4 Qd6 29. Kg2 Qd7 30. Qf3 Qa4 31. a3 Bxd4 32. Rxd4 Rxd4 33. cxd4 Qxd4
+34. Qxb7 Qd2+ 35. Kh3 Qe1 36. Qa8+ Kh7 37. Qd5 Qf1+ 38. Qg2 Qd1 39. Qe4+ Kg8 40.
+b4 Qf1+ 41. Kh2 Qa6 42. Qe3 Qa4 43. Qd3 a6 44. Kg2 Qc6+ 45. Kf2 Qe6 46. Kf3 g6
+47. Qe2 Qb3+ 48. Qe3 Qd1+ 49. Qe2 Qb3+ 50. Qe3 Qd1+ 51. Ke4 Qxg4 52. Kd3 Qd1+
+53. Kc4 Qc2+ 54. Kd5 h5 55. Kd6 Qc8 56. Qe5 Qb8+ 57. Kd5 Qb5+ 58. Kd4 Qf1 59.
+Qe8+ Kg7 60. Qe5+ Kg8 61. Qe3 Qb5 62. Kc3 Qa4 63. Kd4 Qc2 64. Qd3 Qc6 65. Qc4
+Qa4 66. Qc3 Qd7+ 67. Kc4 Qe6+ 68. Kd3 Qa2 69. Kd4 Qe2 70. Qd3 Qf2+ 71. Ke5 Qb2+
+72. Kd5 Qg2+ 73. Kc5 Qb7 74. Qd8+ Kg7 75. Qd4+ Kg8 76. Qd8+ Kg7 77. Qb6 Qe7+ 78.
+Qd6 Qa7+ 79. Qb6 Qe7+ 80. Qd6 Qa7+ 81. Kd5 Qb7+ 82. Qc6 Qa7 83. Qc3+ Kg8 84. Kc6
+Qb8 85. Qd3 Qa7 86. a4 Qa8+ 87. Kb6 Qb8+ 88. Ka5 Qc7+ 89. Kxa6 Qc6+ 90. Ka5 Qa8+
+91. Kb5 Qe8+ 92. Ka5 Qa8+ 93. Kb5 Qe8+ 94. Kc5 Qxa4 95. b5 Qa7+ 96. b6 Qe7+ 97.
+Kc6 Qe1 98. Qd8+ Kg7 99. Qd4+ Kg8 100. Qe5 Qxg3 101. b7 Qg2+ 102. Kb6 Qf2+ 103.
+Qc5 Qb2+ 104. Kc7 1-0
+
+[Event "London Classic Open 2014"]
+[Site "London ENG"]
+[Date "2014.12.08"]
+[Round "1.74"]
+[White "Orgler,P"]
+[Black "Altman,Joshua"]
+[Result "1/2-1/2"]
+[BlackTitle "CM"]
+[WhiteElo "2165"]
+[BlackElo "1723"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[WhiteFideId "1604236"]
+[BlackFideId "426210"]
+[EventDate "2014.12.08"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 gxf6 5. e3 e6 6. Nge2 c5 7. Ng3 Bg6 8.
+Bd3 Nc6 9. Bxg6 hxg6 10. O-O Qb6 11. Na4 Qa5 12. Nxc5 Bxc5 13. dxc5 Qxc5 14. Qf3
+f5 15. Rfc1 O-O-O 16. a3 Qb6 17. c4 d4 18. b4 dxe3 19. fxe3 Ne5 20. Qe2 Qd6 21.
+Rd1 Qe7 22. Nf1 Kb8 23. Rd4 Nc6 24. Rxd8+ Rxd8 25. Rd1 Rd7 26. Rxd7 Qxd7 27. Qc2
+Qd6 28. b5 Ne5 29. c5 Qd5 30. Qc3 f6 31. a4 Qd3 32. Qb4 Qc4 33. Qd2 Qd3 34. Qa5
+Qd5 35. Qb4 Qc4 36. Qd2 Qd3 37. Qb2 Kc8 38. Qb4 Qc4 39. Qa3 Qd3 40. Qb4 Qc4 1/2-1/2
+
+[Event "CCT5 45 10"]
+[Site "Internet Chess Club"]
+[Date "2003.01.18"]
+[Round "3"]
+[White "Amyan"]
+[Black "XinixXX"]
+[Result "0-1"]
+[ECO "B00"]
+[WhiteElo "2292"]
+[BlackElo "2249"]
+[PlyCount "108"]
+[EventDate "2003.??.??"]
+
+1. e4 Nc6 2. d4 d5 3. e5 f6 4. Nf3 Bg4 5. Bb5 fxe5 6. dxe5 e6 7. Nbd2 Nge7 8.
+h3 Bh5 9. O-O Qd7 10. c3 O-O-O 11. b4 Kb8 12. Ba4 Qc8 13. Qb3 Rg8 14. Bb2 g5
+15. g4 Bg6 16. Qa3 h5 17. b5 Nf5 18. Qb3 Na5 19. Qd1 hxg4 20. hxg4 Nh6 21. Bc2
+Bxc2 22. Qxc2 c6 23. Qa4 Nc4 24. Nxc4 cxb5 25. Qxb5 dxc4 26. Rad1 Bc5 27. Rxd8
+Rxd8 28. Kg2 Be7 29. Re1 Rd3 30. Re4 Qf8 31. Re3 Rxe3 32. fxe3 Nxg4 33. Bc1 a6
+34. Qb1 Qf5 35. Qxf5 exf5 36. e6 Kc7 37. Nd4 Nh6 38. Kf3 Bf6 39. Ba3 Be5 40.
+Bf8 Ng8 41. Nxf5 Nf6 42. e4 g4+ 43. Ke3 Bxc3 44. Bg7 b5 45. Nd4 Bxd4+ 46. Kxd4
+Nh5 47. Be5+ Kd8 48. Bd6 g3 49. Ke3 c3 50. Bb4 g2 51. Kf2 Nf4 52. Kg1 c2 53.
+Bd2 Nd3 54. a3 Ne1 {White resigns} 0-1
